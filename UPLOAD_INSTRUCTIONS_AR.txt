@@ -1,0 +1,11 @@
+ارفع محتويات هذا الفولدر بالكامل على GitHub وليس ملف ZIP نفسه.
+لازم يظهر في الريبو:
+app
+.github
+gradle
+gradlew
+build.gradle
+settings.gradle
+
+لو عندك android.yml قديم، احذفه أو استبدله بالموجود هنا.
+بعد الرفع ادخل Actions ثم Build Android AAB ثم Run workflow.
